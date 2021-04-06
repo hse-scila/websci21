@@ -7,7 +7,7 @@ __National Research University Higher School of Economics (Russia),
 
 ---
 
-Date: __June, 20–21__
+Date: __June, 22__
 
 Time: __to be announced__
 
@@ -91,9 +91,7 @@ Web science.
 To register for the workshop, please follow the guidelines on
 the WebSci’21 website: [websci21.webscience.org](https://websci21.webscience.org).
 
-To apply as a panelist, you need to submit an extended abstract
-(~1000 words) of your presentation (no full papers are
-required). __Abstract submission deadline &mdash; April 23, 2021__.
+To apply as a panelist, you need to submit an extended abstract (~1000 words) of your presentation (no full papers are required). We ask you to send abstracts (pdf) to scila.websci21@gmail.com; no special formatting is necessary. Please, do not forget to identify your name, position, and affiliation in the letter. __Abstract submission deadline &mdash; April 23, 2021__.
 
 ## Workshop organizers
 
