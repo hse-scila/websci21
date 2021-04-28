@@ -7,9 +7,9 @@ __National Research University Higher School of Economics (Russia),
 
 ---
 
-Date: __June, 22__
+Date: __June, 21__
 
-Time: We expect to start at __11 MSK (UTC+2)__. However, the exact time is yet to be confirmed.
+Time: __11 MSK (UTC+3)__
 
 Format: __online__
 
