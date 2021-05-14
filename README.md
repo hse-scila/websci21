@@ -48,33 +48,9 @@ session where participants will have an opportunity to advise
 each other and exchange broader ideas on the use of experiments
 in Web science.
 
-## Program
-
-The estimated time of the workshop is between 3 and 4 hours. The
-detailed program will be announced after the review of
-applications is finished.
+The estimated time of the workshop is between 3 and 4 hours.
 
 ## Who can apply
-
-### Panelists
-
-We will select up to 5 participants who will present their
-research during the workshop. The application needs to meet
-several requirements:
-
-- study is based on an online experiment as a primary method;
-- data has been already collected;
-- projects that are relevant to the thematic areas of the WebSci conference are strongly encouraged.
-
-The proposed presentations are expected to cover methodological
-aspects of online experiments such as but not limited to: choice
-of a design; sample construction and methods of recruitment;
-development of digital instruments for the experiment (e.g.
-applications, websites, games); factors of participants
-behaviour (e.g. engagement, drop-out, completion rate).
-
-Participants will be allowed to discuss both research in
-progress and completed studies.
 
 ### Audience
 
@@ -90,8 +66,6 @@ Web science.
 
 To register for the workshop, please follow the guidelines on
 the WebSci’21 website: [websci21.webscience.org](https://websci21.webscience.org).
-
-To apply as a panelist, you need to submit an extended abstract (~1000 words) of your presentation (no full papers are required). We ask you to send abstracts (pdf) to scila.websci21@gmail.com; no special formatting is necessary. Please, do not forget to identify your name, position, and affiliation in the letter. __Abstract submission deadline &mdash; April 23, 2021__.
 
 ## Workshop organizers
 
